@@ -28,4 +28,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<img src="https://github.com/lucasdsant/lucasdsant/blob/master/devcard.svg" width="400" alt="Lucas D'sant 's Dev Card"/></a>
+<a href="https://app.daily.dev/Lucasdsant"><img src="https://github.com/lucasdsant/lucasdsant/blob/main/devcard.svg" width="400" alt="Lucas's Dev Card"/></a>
