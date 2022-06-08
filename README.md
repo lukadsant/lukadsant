@@ -29,5 +29,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<a href="https://app.daily.dev/Lukadsant"><img align="center" img src="https://github.com/lucasdsant/lukadsant/blob/main/devcard.svg" width="300" alt="Lucas's Dev Card"/></a>
+<a href="https://app.daily.dev/Lukadsant"><img align="center" img src="https://github.com/lukadsant/lukadsant/blob/main/devcard.svg" width="300" alt="Lucas's Dev Card"/></a>
 
