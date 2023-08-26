@@ -31,3 +31,10 @@
 </div>
 <a href="https://app.daily.dev/Lukadsant"><img align="center" img src="https://github.com/lukadsant/lukadsant/blob/main/devcard.svg" width="300" alt="Lucas's Dev Card"/></a>
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=Lukadsant" alt="7oSkaaa" /></p>
+
+</details>
