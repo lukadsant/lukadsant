@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/796847381559771196/883349318436806686/128.png">
+  <img align="right" alt="Rafa-yoda" src="https://th.bing.com/th/id/OIP.5w5caPze-GRN7M-jlMFwCgHaHa?pid=ImgDet&rs=1">
 </div>
   
   ##
