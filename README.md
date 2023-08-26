@@ -1,5 +1,9 @@
-### Print("Olá eu sou Lucas D'Sant") 👋☕
 
+
+
+
+                                                           ### Print("Olá eu sou Lucas D'Sant") 👋☕
+<img align="center" img src="https://github.com/lukadsant/lukadsant/assets/68041537/d3a864ea-6521-4a52-9321-facdc7a48a16" alt="dino banner"/>
 <div>
 
   <a href="https://github.com/lucasdsant">
