@@ -11,8 +11,12 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lukadsant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lukadsant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadsant&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </div>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/lukadsant/lukadsant/assets/68041537/b1fad523-7aa8-45d1-a2ad-e93e2e72bc6c">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -20,9 +24,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
   <a href="https://app.daily.dev/Lukadsant"><img align="right" img src="https://github.com/lukadsant/lukadsant/blob/main/devcard.svg" width="300" alt="Lucas's Dev Card"/></a>
-  
+  <img align="center" img src="https://th.bing.com/th/id/R.3bcf628e73675bb2a390ae279bd21c45?rik=D6A6xT8kv2Gtqw&riu=http%3a%2f%2fcdn1.sbnation.com%2fassets%2f3786027%2fmario.gif&ehk=mIxiVQ2P%2fxRspV6C9s3ne2qXywCqcpzU2GgMhUc%2b%2fJA%3d&risl=&pid=ImgRaw&r=0" width="128" alt="dino banner"/>
 </div>
-  
+
   ##
  
 <div> 
