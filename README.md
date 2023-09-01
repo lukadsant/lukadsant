@@ -47,3 +47,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukadsant" alt="7oSkaaa" /></p>
 
 </details>
+![snake gif](https://github.com/lukadsant/lukadsant/blob/output/github-contribution-grid-snake.gif)
