@@ -46,27 +46,11 @@ Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu
 ##
 
 <div>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lukadsant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lukadsant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadsant&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lukadsant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/lukadsant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadsant&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
-
-
-
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/@lukadsant" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lukadsant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discords.com/bio/p/lackytwo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasbdsaint@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lukadsant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
-</div>
-
-
-
+##
 
 ----	
 
