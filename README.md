@@ -44,10 +44,12 @@ Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu
 </div>
 
 ##
-### 🌟 Github Status:
+### 🏆 Github Top Langs:
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lukadsant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 <a href="https://github.com/lukadsant/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadsant&layout=compact&theme=buefy&hide_border=true" /></a>
+  
+### 🌟 Github Status:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lukadsant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luka's github stats" /></a>
 </div>
 
 ### 🔥 Github Streaks:
