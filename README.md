@@ -37,7 +37,7 @@ Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu
   <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
  
   <a href="https://app.daily.dev/Lukadsant"><img align="right" img src="https://github.com/lukadsant/lukadsant/blob/main/devcard.svg" width="300" alt="Lucas's Dev Card"/></a>
   <img align="center" img src="https://th.bing.com/th/id/R.3bcf628e73675bb2a390ae279bd21c45?rik=D6A6xT8kv2Gtqw&riu=http%3a%2f%2fcdn1.sbnation.com%2fassets%2f3786027%2fmario.gif&ehk=mIxiVQ2P%2fxRspV6C9s3ne2qXywCqcpzU2GgMhUc%2b%2fJA%3d&risl=&pid=ImgRaw&r=0" width="128" alt="dino banner"/>
