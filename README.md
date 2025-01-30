@@ -11,6 +11,7 @@
  <a href="https://discords.com/bio/p/lackytwo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasbdsaint@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukadsant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wakatime.com/@lukadsant" target="_blank"><img src="https://wakatime.com/badge/user/018de606-5c15-4da8-8543-32a7e09998c1.svg?style=for-the-badge" target="_blank"></a> 
 </div>
 
 ## Sobre mim:
