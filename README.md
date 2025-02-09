@@ -20,8 +20,8 @@ Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu
 
 ### Falando sobre coisas pessoais:
 
-- 🛠 &nbsp; No momento estou trabalhando Profissionalmente com DjangoRest, Typescript, NodeJS, Docker.
-- 👀 &nbsp; Planejando aprender: C#, Golang, Rust.
+- 🛠 &nbsp; No momento estou trabalhando Profissionalmente com Golang,Python, Typescript, NodeJS, Docker.
+- 👀 &nbsp; Estudando: C#, Java e Rust.
 - 👨🏻‍💻 &nbsp; A Maioria dos meus projetos não estão no github pois sou seletivo xD.
 - 👾 &nbsp; Fun fact: Aprendi programação devido ao Tibia.
 - 📫 &nbsp; Você pode entrar em contato comigo por: [Twitter](https://twitter.com/lukadsant) ou lkdsant@gmail.com.
