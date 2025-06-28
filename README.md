@@ -16,20 +16,20 @@
 
 ## Sobre mim:
 
-Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu.br/). Sou um eterno aluno apaixonado em aprender e trabalhar em tecnologias e domínios 💡. Adoro fazer experimentos malucos com as as inumeras tecnologias que acabam surgindo para aproveitá-las e resolver problemas da vida real ✨. Além disso, também adoro documentar aprendizados de formas lúdica 👨🏻‍💻🎨. Estou profundamente envolvido com desenvolvimento de aplicativos para Web 🕸️, Automações Desktop 💻 e Desenvolvimento de Jogos 🎮.
+Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu.br/). Sou um eterno aluno apaixonado em aprender e trabalhar em tecnologias e domínios 💡. Adoro fazer experimentos malucos com as as inúmeras tecnologias que acabam surgindo para aproveitá-las e resolver problemas da vida real ✨. Além disso, também adoro documentar aprendizados de formas lúdicas 👨🏻‍💻🎨. Estou profundamente envolvido com desenvolvimento de aplicativos para Web 🕸️, Automações Desktop 💻 e Desenvolvimento de Jogos 🎮.
 
 ### Falando sobre coisas pessoais:
 
-- 🛠 &nbsp; No momento estou trabalhando Profissionalmente com Golang,Python, Typescript, NodeJS, Docker.
-- 👀 &nbsp; Estudando: C#, Java e Rust.
-- 👨🏻‍💻 &nbsp; A Maioria dos meus projetos não estão no github pois sou seletivo xD.
+- 🛠 &nbsp; No âmbito profissional, estou trabalhando com Golang, Python, Typescript, NodeJS, Docker e Java.
+- 👀 &nbsp; Estudando: C# e Rust.
+- 👨🏻‍💻 &nbsp; A maaior parte dos meus projetos não estão no github, uma vez que seleciono os melhores.
 - 👾 &nbsp; Fun fact: Aprendi programação devido ao Tibia.
-- 📫 &nbsp; Você pode entrar em contato comigo por: [Twitter](https://twitter.com/lukadsant) ou lkdsant@gmail.com.
+- 📫 &nbsp; Você pode entrar em contato comigo por: [Twitter](https://twitter.com/lukadsant) ou contato@lukadsant.dev.
 ### Infos especiais:
 
-- 🚀 &nbsp; tenho dons artísticos dá uma checada no [Portfolio](https://lukadsant.github.io/portfolio/)
-- 📰 &nbsp; O ato de escrever é a habilidade na qual sou mais apegado, então os meus Readmes e documentações são bem detalhadas.
-- ⚡ &nbsp; Costumo ter bloqueio criativo nos meus projetos, porém ao observar outros projetos acabo recebendo span de ideias xD
+- 🚀 &nbsp; Tenho dons artísticos, você pode checar em: [Portfolio](https://lukadsant.github.io/portfolio/)
+- 📰 &nbsp; O ato de escrever é a habilidade na qual sou mais apegado, então os meus Readmes e documentações são bem detalhados.
+- ⚡ &nbsp; Costumo ter bloqueio criativo nos meus projetos, porém ao observar outros projetos, acabo recebendo span de ideias xD
 ### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
