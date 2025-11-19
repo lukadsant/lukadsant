@@ -4,32 +4,31 @@
 
 ## Olá 👋, eu sou [Lukadsant!](https://twitter.com/lukadsant) e aqui é o local onde expiro código :)
 
-<img align="center" img src="https://github.com/lukadsant/lukadsant/assets/68041537/d3a864ea-6521-4a52-9321-facdc7a48a16" alt="dino banner"/>
+
+<img align="center" img src="https://github.com/user-attachments/assets/65a616b5-93ab-43c3-9f2f-1eb79d34a5de" alt="dino banner"/>
 <div> 
-  <a href="https://www.youtube.com/@lukadsant" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lukadsant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discords.com/bio/p/lackytwo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasbdsaint@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukadsant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "x.com/lukadsant"><img src="https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="https://wakatime.com/@lukadsant" target="_blank"><img src="https://wakatime.com/badge/user/018de606-5c15-4da8-8543-32a7e09998c1.svg?style=for-the-badge" target="_blank"></a> 
 </div>
 
 ## Sobre mim:
 
-Atualmente Trabalhando na [Faculdade Pernambucana de Saúde](https://www.fps.edu.br/). Sou um eterno aluno apaixonado em aprender e trabalhar em tecnologias e domínios 💡. Adoro fazer experimentos malucos com as as inúmeras tecnologias que acabam surgindo para aproveitá-las e resolver problemas da vida real ✨. Além disso, também adoro documentar aprendizados de formas lúdicas 👨🏻‍💻🎨. Estou profundamente envolvido com desenvolvimento de aplicativos para Web 🕸️, Automações Desktop 💻 e Desenvolvimento de Jogos 🎮.
+Atualmente Trabalhando na [Engeconsult](https://www.engeconsult.com.br/). como desenvolvedor Full Stack, criando APIs, microsserviços e automações que conectam engenharia, dados e software de forma eficiente. Sou fissurado em transformar ideias em soluções práticas, sempre explorando novas tecnologias para resolver problemas reais com criatividade e impacto.
+
+Gosto de experimentar, prototipar e desmontar conceitos. Da engenharia ao design, passando por automações desktop e aplicações web, busco sempre construir sistemas robustos, claros e escaláveis.
+Também documento aprendizados de maneira lúdica, unindo arte, código e storytelling para tornar tecnologia mais acessível e divertida.
+
+Além do trabalho profissional, mantenho projetos pessoais que exploram web, automação, visualização de dados e criatividade aplicada ao código, sempre com foco em aprender fazendo.
 
 ### Falando sobre coisas pessoais:
 
-- 🛠 &nbsp; No âmbito profissional, estou trabalhando com Golang, Python, Typescript, NodeJS, Docker e Java.
-- 👀 &nbsp; Estudando: C# e Rust.
-- 👨🏻‍💻 &nbsp; A maaior parte dos meus projetos não estão no github, uma vez que seleciono os melhores.
+- 🛠 &nbsp; No âmbito profissional, estou trabalhando com Golang, Python, Typescript, NodeJS, C#.
+- 👀 &nbsp; Estudando: Cybersegurança e Java.
 - 👾 &nbsp; Fun fact: Aprendi programação devido ao Tibia.
 - 📫 &nbsp; Você pode entrar em contato comigo por: [Twitter](https://twitter.com/lukadsant) ou contato@lukadsant.dev.
-### Infos especiais:
+- 🚀 &nbsp; tenho havbilidades de design você pode checar em: [Portfolio](https://lukadsant.github.io/portfolio/)
 
-- 🚀 &nbsp; Tenho dons artísticos, você pode checar em: [Portfolio](https://lukadsant.github.io/portfolio/)
-- 📰 &nbsp; O ato de escrever é a habilidade na qual sou mais apegado, então os meus Readmes e documentações são bem detalhados.
-- ⚡ &nbsp; Costumo ter bloqueio criativo nos meus projetos, porém ao observar outros projetos, acabo recebendo span de ideias xD
 ### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
