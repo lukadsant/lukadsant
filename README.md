@@ -2,7 +2,7 @@
 
 
 
-## Olá 👋, eu sou [Lukadsant!](https://twitter.com/lukadsant) e aqui é o local onde expiro código :)
+## Olá 👋, eu sou [Lukadsant!](https://twitter.com/lukadsant)  :)
 
 
 <img align="center" img src="https://github.com/user-attachments/assets/65a616b5-93ab-43c3-9f2f-1eb79d34a5de" alt="dino banner"/>
