@@ -2,7 +2,7 @@
 
 
 
-## Olá 👋, eu sou [Lukadsant!](https://twitter.com/lukadsant)  :)
+## Olá 👋, eu sou [Lukadsant!](https://lukadsant.dev)  :)
 
 
 <img align="center" img src="https://github.com/user-attachments/assets/65a616b5-93ab-43c3-9f2f-1eb79d34a5de" alt="dino banner"/>
@@ -19,7 +19,7 @@ Atualmente Trabalhando na [Engeconsult](https://www.engeconsult.com.br/). como d
 Gosto de experimentar, prototipar e desmontar conceitos. Da engenharia ao design, passando por automações desktop e aplicações web, busco sempre construir sistemas robustos, claros e escaláveis.
 Também documento aprendizados de maneira lúdica, unindo arte, código e storytelling para tornar tecnologia mais acessível e divertida.
 
-Além do trabalho profissional, mantenho projetos pessoais que exploram web, automação, visualização de dados e criatividade aplicada ao código, sempre com foco em aprender fazendo.
+Além do trabalho profissional, mantenho projetos pessoais e presto serviços em [Lukadsant.dev](https://lukadsant.dev)  que exploram web, automação, visualização de dados e criatividade aplicada ao código, sempre com foco em aprender fazendo.
 
 ### Falando sobre coisas pessoais:
 
